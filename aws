@@ -1,5 +1,6 @@
 hi
 Track the file : git add aws
-Track multiple files : git add file1 file2
-Track all files : git add *
+Track multiple files : git add file1 filed
 To check the status : git status 
+Adding another line here
+please check
