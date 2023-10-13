@@ -1,0 +1,22 @@
+patch(folder)-5 files
+cat file1 | tee aws azure gcp linux 
+cp folder1/* junk
+To set an expiry date to existing user- sudo chage -E yyyy-mm-dd username
+usermode -aG groupname username
+Then, enter 'id username',it will display the username in group
+sudo chown -R username:username /home/username
+Permission denied when I was trying to login through ec2-user because the owner and groupname has changed.To change back tp 
+=================================
+Day-1
+Git
+scm
+vcs
+why git
+git history
+git install
+git stages
+git files tracking
+git file commit
+history
+
+
