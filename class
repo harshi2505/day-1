@@ -1,4 +1,0 @@
-To configure email id : git config user.email “our-email”
-To edit the lastest commit message : git commit --amend -m “message”
-To edit author for latest commit : git commit --amend --author “name <mail>”
-To commit the changes with prev commit : git commit --amend --no-edit
